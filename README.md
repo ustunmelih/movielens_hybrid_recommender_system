@@ -1,7 +1,7 @@
 
 # Hybrid Recommender System in a Movielens Dataset
 
-![img](https://user-images.githubusercontent.com/86877457/132905471-3ef27af4-ecc6-44bf-a47c-5ccf2250410c.jpg)
+![img](https://www.datascienceportfol.io/static/profile_pics/pr3_DB28576C8664DC0D63E3.jpg)
 
 ## Business Case
 
