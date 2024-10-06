@@ -1,7 +1,7 @@
 
 # Hybrid Recommender System in a Movielens Dataset
 
-![img](https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2022_01_Untitled-design-16.jpg)
+![img](https://user-images.githubusercontent.com/86877457/132905471-3ef27af4-ecc6-44bf-a47c-5ccf2250410c.jpg)
 
 ## Business Case
 
